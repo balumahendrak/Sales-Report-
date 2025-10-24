@@ -8,4 +8,5 @@ I developed a comprehensive Power BI report. The project involved extracting dat
 ## Power BI report file link
 - <a href = "https://github.com/balumahendrak/Sales-Report-/blob/main/Production%20and%20Sales%20Performance%20Report.pbix">Power BI File</a>
 ## Dashboard
-- <a href = "https://github.com/balumahendrak/Sales-Report-/blob/main/Production%20Overview.png">Production</a> 
+- <a href = "https://github.com/balumahendrak/Sales-Report-/blob/main/Production%20Overview.png">Production</a>
+- <a href = "https://github.com/balumahendrak/Sales-Report-/blob/main/Sales%20Performance.png">Sales</a>
