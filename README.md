@@ -5,3 +5,5 @@ I developed a comprehensive Power BI report. The project involved extracting dat
 
 ## Dataset used
 - <a href = "https://github.com/balumahendrak/Sales-Report-/blob/main/PowerBI_Practice_Dataset.xlsx">Dataset</a>
+## Power BI report file link
+- <a href = "https://github.com/balumahendrak/Sales-Report-/blob/main/Production%20and%20Sales%20Performance%20Report.pbix">Power BI File</a>
